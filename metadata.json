@@ -1,0 +1,6 @@
+{
+  "name": "SyncPlan - Project Management & Auto-Scheduling",
+  "description": "Real-time collaborative project management tool featuring automated task scheduling, Gantt timeline, interactive Kanban board, and team collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
